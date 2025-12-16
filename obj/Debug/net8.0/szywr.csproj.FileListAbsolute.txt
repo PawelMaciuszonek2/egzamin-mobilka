@@ -1,0 +1,15 @@
+C:\Users\4Tp\source\repos\szywr\bin\Debug\net8.0\szywr.exe
+C:\Users\4Tp\source\repos\szywr\bin\Debug\net8.0\szywr.deps.json
+C:\Users\4Tp\source\repos\szywr\bin\Debug\net8.0\szywr.runtimeconfig.json
+C:\Users\4Tp\source\repos\szywr\bin\Debug\net8.0\szywr.dll
+C:\Users\4Tp\source\repos\szywr\bin\Debug\net8.0\szywr.pdb
+C:\Users\4Tp\source\repos\szywr\obj\Debug\net8.0\szywr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4Tp\source\repos\szywr\obj\Debug\net8.0\szywr.AssemblyInfoInputs.cache
+C:\Users\4Tp\source\repos\szywr\obj\Debug\net8.0\szywr.AssemblyInfo.cs
+C:\Users\4Tp\source\repos\szywr\obj\Debug\net8.0\szywr.csproj.CoreCompileInputs.cache
+C:\Users\4Tp\source\repos\szywr\obj\Debug\net8.0\szywr.sourcelink.json
+C:\Users\4Tp\source\repos\szywr\obj\Debug\net8.0\szywr.dll
+C:\Users\4Tp\source\repos\szywr\obj\Debug\net8.0\refint\szywr.dll
+C:\Users\4Tp\source\repos\szywr\obj\Debug\net8.0\szywr.pdb
+C:\Users\4Tp\source\repos\szywr\obj\Debug\net8.0\szywr.genruntimeconfig.cache
+C:\Users\4Tp\source\repos\szywr\obj\Debug\net8.0\ref\szywr.dll
